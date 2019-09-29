@@ -14,11 +14,11 @@ year = 2019
 # change this value each wweek to ensure you are comparing the right teams
 currentWeek = 4
 # input all league IDs separated by commas (required)
-leagues = [11111111, 22222222, 33333333]
+leagues = [1969549]
 # optional
-leagueNames = ["The boiz", "Throwback", "New Gang"]
+leagueNames = ["The Teams"]
 # TEAM NAMES BELOW MUST MATCH YOUR TEAM NAME ON ESPN (required)
-teamNames = ["Quarter Chubb", "Hyde and Zeke", "As Far As the Eye Kelce"]
+teamNames = ["2015 Heisman Finalists"]
 
 ## Do not edit below this line if you don't know what you're doing
 ####################################################################
